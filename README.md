@@ -20,7 +20,7 @@
 - 🎓 **Education:** Master of Computer Applications (**MCA**)
 - 🎯 **Core Expertise:** Advanced SQL Engineering, Customer Lifecycle Diagnostics, Dimensional Data Modeling (Star Schema), and Interactive Business Intelligence.
 - 💡 **Philosophy:** Bridging computer science principles with commercial data analytics—writing clean, scalable CTE-based queries, robust Python data pipelines, and building interactive web dashboards that empower executive decision-makers.
-- ⚡ **Fun Fact:** *I treat messy raw datasets like detective mysteries—no rogue outlier or hidden customer churn pattern can hide from my SQL queries! I also believe 99% of business arguments can be settled with a clean CTE and a well-labeled chart.* 🕵️‍♀️📊
+- ⚡ **Fun Fact:** *I treat messy raw datasets like detective mysteries—no hidden customer churn pattern can escape a clean CTE and a well-labeled chart!.* 🕵️‍♀️📊
 - 💼 **Actively Seeking:** Full-time roles as a **Data Analyst**, **Business Intelligence Analyst**, or **Analytics Engineer**.
 
 ---
